@@ -1,0 +1,47 @@
+body {
+    margin: auto;
+    font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    background: oldlace;
+    color: rgb(56, 56, 56);
+}
+
+h1 {
+    border: 2px solid rgb(56, 56, 56);
+    text-align: center;
+    color: inherit;
+    font-size: 20px;
+}
+
+.textoEtiqueta {
+    color: oldlace;
+}
+
+.entrada {
+    text-align: center;
+    font-size: medium;
+    border: none;
+    color: oldlace;
+    background: inherit;
+}
+
+.on {
+    display: block;
+}
+
+.off {
+    display: none;
+}
+
+#param {
+    opacity: 50%;
+    background: black;
+    text-align: left;
+}
+
+#Resultado {
+    color: oldlace;
+}
